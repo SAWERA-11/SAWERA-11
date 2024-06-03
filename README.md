@@ -1,6 +1,5 @@
-- AssalamuAlaikum, I’m @SAWERA-11
-- I'm on my way to become a software engineer
-- 🌱 I’m currently learning python...
+Assalamu Alaikum
+I, Sawera Arif is on her way to learn & explore..
 
 
 <!---
